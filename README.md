@@ -7,4 +7,5 @@ Functions needed:
 - Login function for admin
 - display data and saving data
 - attendance taking from lecturer role
--etc...
+- each module is separated in different file
+- etc...
